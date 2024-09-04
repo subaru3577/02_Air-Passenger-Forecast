@@ -9,8 +9,8 @@ This work has been submitted in partial fulfilment of the requirements of the Ma
   
 The COVID-19 pandemic has had a devastating impact on the aviation industry due to lockdowns and travel restrictions. This "new normal" has transformed our lifestyles and influenced travel demand. This study forecasts air travel demand in the post-pandemic era, where demand has become more volatile. Traditional forecasting methods, which do not account for unforeseeable shocks like the pandemic, are less effective. Therefore, this work employed a model that adapts to volatility and has successfully predicted air passenger traffic during the recovery phase.
 
-- *Topic:*  
-- *Keywords:*
+- *Topic: COVID-19, Pandemic, Aviation, Air passenger*  
+- *Keywords: Predictive model, Time-series analysis*
 
 **Disclaimer:**  
 - This work is for educational and informational purposes only. The author makes no warranties or representations about the accuracy, reliability, or completeness of the code.
