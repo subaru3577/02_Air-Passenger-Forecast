@@ -5,6 +5,8 @@ This work has been submitted in partial fulfilment of the requirements of the Ma
 - Author: Subaru Shimizu
 - Grade: 86/100  
 
+[JupyterNotebook](https://github.com/subaru3577/02_AirPassengerForecast/blob/ec0d95b9545621bab1654d5ecaeb6dd8e3244ae3/AirPassengerForecast.ipynb) is available.
+
 **Overview:**  
   
 The COVID-19 pandemic has had a devastating impact on the aviation industry due to lockdowns and travel restrictions. This "new normal" has transformed our lifestyles and influenced travel demand. This study forecasts air travel demand in the post-pandemic era, where demand has become more volatile. Traditional forecasting methods, which do not account for unforeseeable shocks like the pandemic, are less effective. Therefore, this work employed a model that adapts to volatility and has successfully predicted air passenger traffic during the recovery phase.
