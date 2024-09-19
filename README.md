@@ -5,7 +5,7 @@ This work has been submitted in partial fulfilment of the requirements of the Ma
 - Author: Subaru Shimizu
 - Grade: 86/100  
 
-[JupyterNotebook]([https://github.com/subaru3577/02_AirPassengerForecast/blob/ec0d95b9545621bab1654d5ecaeb6dd8e3244ae3/AirPassengerForecast.ipynb](https://github.com/subaru3577/02_Air-Passenger-Forecast/blob/85ceed163355cdb5fd8000df8e7a337bb32456e0/AirPassengerForecast.ipynb)) is available.
+[JupyterNotebook](https://github.com/subaru3577/02_Air-Passenger-Forecast/blob/bc9c063e106f3319cdc63bf3ff90b958035756dc/AirPassengerForecast.ipynb) is available.
 
 **Overview:**  
   
